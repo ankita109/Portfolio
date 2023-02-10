@@ -1,6 +1,4 @@
 import styles from "./styles.module.css";
-import TwitterIcon from "@mui/icons-material/Twitter";
-import InstagramIcon from "@mui/icons-material/Instagram";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 
@@ -8,23 +6,17 @@ function ContactBar() {
   return (
     <div className={styles.contact_bar_wrapper}>
       <div className={styles.contact_bar}>
-        <a href="/" target="_blank" className={styles.icons}>
+        <a href="https://www.linkedin.com/in/ankita-kumari-44a826200/" target="_blank" className={styles.icons}>
           <LinkedInIcon />
         </a>
-        <a href="/" target="_blank" className={styles.icons}>
+        <a href="https://github.com/ankita109" target="_blank" className={styles.icons}>
           <GitHubIcon />
-        </a>
-        <a href="/" target="_blank" className={styles.icons}>
-          <InstagramIcon />
-        </a>
-        <a href="/" target="_blank" className={styles.icons}>
-          <TwitterIcon />
         </a>
         <div className={styles.line}></div>
       </div>
       <div className={styles.contact_bar}>
-        <a href="mailto:ankita678@gmail.com" className={styles.email}>
-          ankita678@gmail.com
+        <a href="mailto:dubeyankita017@gmail.com" className={styles.email}>
+          dubeyankita017@gmail.com
         </a>
         <div className={styles.line}></div>
       </div>

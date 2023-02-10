@@ -4,7 +4,7 @@ function Home() {
       <section className={styles.home_section} id="home">
         <p className={styles.greet}>Hi, my name is Ankita Kumari</p>
         <h1 className={styles.heading_1}>Ankita.</h1>
-        <h1 className={styles.heading_2}>I build things for the web</h1>
+        <h1 className={styles.heading_2}>I am a Frontend Web Developer</h1>
         <p className={styles.desc}>
           Lorem Ipsum is simply dummy text of the printing and typesetting
           industry. Lorem Ipsum has been the industry's standard dummy text ever
