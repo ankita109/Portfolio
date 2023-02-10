@@ -10,7 +10,7 @@ function Home() {
           I'm interested in learning Coding language. I love to learn new things, and 
           I'm working day by day on improving my skills. 
         </p>
-        <a href="#work">
+        <a href="https://github.com/ankita109" target="_blank">
           <button className={styles.btn}>Check out my work!</button>
         </a>
       </section>

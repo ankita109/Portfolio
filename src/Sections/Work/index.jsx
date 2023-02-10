@@ -33,10 +33,10 @@ function Work() {
                   ))}
                 </div>
                 <div>
-                  <a href="/" className={styles.link}>
+                  <a href={project["github"]} target="_blank" className={styles.link}>
                     <GitHubIcon />
                   </a>
-                  <a href="/" className={styles.link}>
+                  <a href={project["link"]}target="_blank" className={styles.link}>
                     <OpenInNewIcon />
                   </a>
                 </div>

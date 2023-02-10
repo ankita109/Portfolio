@@ -6,7 +6,7 @@ function Contact() {
     <section className={styles.contact_section} id="contact">
       <div className={styles.heading_1}>
         <Heading index="04" heading="What's Next" />
-      </div>
+      </div><br /><br /><br /><br />
       <h1 className={styles.heading_2}>Get in touch</h1>
       <p className={styles.desc}>
         For general inquiries, please email us at dubeyankita017@gmail.com.
