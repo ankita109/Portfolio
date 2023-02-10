@@ -1,58 +1,52 @@
 {
     "experiences": [
         {
-            "company": "Microsoft",
-            "link": "/",
-            "title": "Sr. Frontend Developer",
-            "duration": "Aug 2021 - Present",
+            "company": "Lovely Professional University",
+            "link": "profile.jpg",
+            "title": "Student",
+            "duration": "2020-2024",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "It is a long established fact that a reader will be distracted."
+                "Student at Lovely Professional University",
+                "pursuing Btech from Computer Science "
             ]
         },
         {
-            "company": "Apple",
-            "link": "/",
-            "title": "Jr. Frontend Developer",
-            "duration": "Jan 2021 - Aug 2021",
+            "company": "Self",
+            "link": "#",
+            "title": "Full Stack Web Developer",
+            "duration": "April 2021- _ _ _ _",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "Various versions have evolved over the years, sometimes by accident"
-            ]
-        },
-        {
-            "company": "Google",
-            "link": "/",
-            "title": "Internship",
-            "duration": "Sep 2020 - Jan 2021",
-            "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "It is a long established fact that a reader will be distracted."
+                "Web Development Enthausiast , ",
+                "Experienced : ReactJs, HTML-5, CSS , JavaScript, Angular(basics) "
             ]
         }
     ],
     "projects": [
         {
-            "title":"Ecommerce",
+            "title": "CPU Scheduling APP",
             "image": "./images/project_1.png",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
-            "skills": ["React", "Express", "MongoDB"],
-            "github": "/",
-            "link": ""
+            "desc": " The main function of this app is solving and graphing different CPU Scheduling algorithms.",
+            "skills": [
+                "Javascript",
+                "Json",
+                "HTML",
+                "CSS"
+            ],
+            "github": "https://github.com/ankita109/CPU-Scheduling-Algorithm",
+            "link": "https://ankita109.github.io/CPU-Scheduling-Algorithm/home.html"
         },
         {
-            "title":"Spotify",
+            "title": "Weather App",
             "image": "./images/project_2.png",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
-            "skills": ["React", "Express", "MongoDB"],
-            "github": "/",
-            "link": "/"
+            "desc": "Through this app we check current, past, or future weather patterns and weather maps. ",
+            "skills": [
+                "Javascript",
+                "API",
+                "HTML",
+                "CSS"
+            ],
+            "github": "https://github.com/ankita109/Weather-App",
+            "link": "https://ankita109.github.io/Weather-App/"
         }
     ]
 }
